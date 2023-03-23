@@ -1,4 +1,4 @@
-> Autor: María Sofía Fregona <p>
+> Autor: María Sofía Fregona <p> 
 > Estado: **EN PROCESO..**
 
 # Modelo predictivo para camapaña de marketing <p>
