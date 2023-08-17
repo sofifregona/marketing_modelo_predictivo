@@ -1,5 +1,5 @@
 > Autor: María Sofía Fregona <p> 
-> Estado: **EN PROCESO..**
+> Estado: **FINALIZADO**
 
 # Modelo predictivo para camapaña de marketing <p>
 
